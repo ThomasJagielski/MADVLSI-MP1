@@ -10,11 +10,7 @@ Number of devices: 2                       |Number of devices: 2
 Number of nets: 4                          |Number of nets: 4                          
 ---------------------------------------------------------------------------------------
 Circuits match uniquely.
-Property errors were found.
 Netlists match uniquely.
-There were property errors.
-sky130_fd_pr__nfet_01v81 vs. sky130_fd_pr__nfet_01v8M4:
- w circuit1: 1   circuit2: 2   (delta=66.7%, cutoff=1%)
 
 Subcircuit pins:
 Circuit 1: inverter                        |Circuit 2: inverter                        
@@ -63,4 +59,3 @@ Netlists match uniquely.
 Cells have no pins;  pin matching not needed.
 Device classes and2.spice and and2_LDS_xschem.spice are equivalent.
 Circuits match uniquely.
-The following cells had property errors: inverter
