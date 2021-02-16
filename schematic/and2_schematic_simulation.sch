@@ -12,7 +12,7 @@ N 330 -350 360 -350 { lab=Vout}
 N 290 -390 290 -380 { lab=VDD}
 N 290 -320 290 -310 { lab=GND}
 C {madvlsi/capacitor.sym} 360 -320 0 0 {name=C1
-value=200p
+value=200f
 m=1}
 C {madvlsi/gnd.sym} 360 -280 0 0 {name=l1 lab=GND}
 C {madvlsi/gnd.sym} 290 -310 0 0 {name=l2 lab=GND}
